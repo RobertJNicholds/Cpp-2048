@@ -54,9 +54,13 @@ void move(int grid[][5], int direction)
 {
 	switch (direction)
 	{
-	//North
+	//UP
 	case 0:
-		
-
+	//RIGHT
+	case 1:
+	//DOWN
+	case 2:
+	//LEFT
+	case 3:
 	}
 }
